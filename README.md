@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @ChermodAldo
+- 👋 Hi, I’m Aldo Rafael Rizki
+- My Username Telegram : @Chermodsc
+- I love Indonesia 🇲🇨🇲🇨
 
 <!---
 ChermodAldo/ChermodAldo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
