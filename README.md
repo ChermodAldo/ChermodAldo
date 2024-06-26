@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Aldo Rafael Rizki
-- My Username Telegram : @Chermodsc
-- I love Indonesia 🇲🇨🇲🇨
+add_vip() {
+  local new_vip_id=$1
+  VIP_FILE="/sdcard/AimV2.0/tes.sh"
 
-<!---
-ChermodAldo/ChermodAldo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  # Mengecek apakah ID sudah ada di daftar VIP
+  if grep -q "^$new_vip_id$" "$VIP_FILE"; then
+    echo "ID sudah ada di daftar VIP."
+  else
+    echo "$new_vip_id" >> "$VIP_FILE"
+    echo "ID berhasil ditambahkan ke daftar VIP."
+  fi
+}
+
+add_vip 2000
