@@ -1,5 +1,5 @@
 #!/system/bin/sh
-
+echo "kontol ah ah ahahhahha"
 echo ""
 echo "
  __  __    __    _  _     ___    __    __  __  ____  _  _  ___     __    ___  
@@ -25,7 +25,7 @@ echo ""
 echo " ####################################"
 echo "    Developer : anjayyy"
 echo " ####################################"
-echo "    My Telegram : @Chermodsc"
+echo "    My Telegram : tesanjayy"
 echo " ####################################"
 echo ""
 sleep 2
