@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me  
-Hi, I'm **Aldo Rafael Rizki**, a 13-year-old developer passionate about **gaming optimization** and **non-root modules**. I love crafting tools and scripts that enhance user experience and bring out the best in Android gaming.
+Hi, I'm **Aldo Rafael Rizki**, a 14-year-old developer passionate about **gaming optimization** and **non-root modules**. I love crafting tools and scripts that enhance user experience and bring out the best in Android gaming.
 
 ---
 
@@ -15,13 +15,17 @@ Here are some of my most exciting projects:
 - **[Vextrox](https://github.com/ChermodAldo/Vextrox)**  
   Non-root modules to supercharge your gaming experience.  
 
-- **[About-Chermodsc](https://github.com/ChermodAldo/About-Chermodsc)**  
+- **[About-Chermodsc](https://chermodaldo.github.io/)**  
   Get to know the creator behind the projects.  
 
 ---
 
 ## 📡 Stay Connected  
 Join my Telegram for updates: [ChermodzsModule](https://t.me/ChermodzsModule)  
+Join my Telegram 2: [[ CH ] CHERMODZS 2](https://t.me/ChenelChermodzs2)
+Join my Whatsapp: [Chermodzs](https://whatsapp.com/channel/0029VaeRl4m1Xqucd9LGUT38)  
+  
+
 
 ---
 
