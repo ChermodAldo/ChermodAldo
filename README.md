@@ -2,9 +2,9 @@
 ![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1E90FF&background=FFFFFF00&center=true&width=440&lines=Welcome+to+ChermodAldo;Developer+%7C+Creator+%7C+Innovator;Crafting+non-root+modules+for+gamers!)
 
 <p align="center">
-  <img src="https://i.ibb.co.com/bWZKGhw/fk.jpg" alt="Ghibli Boys" />
+  <img src="https://chermodaldo.github.io/Images/Chermodsc.jpg" alt="Chermodsc" />
   <br />
-  <i>ghibli boys🌵</i>
+  <i>Chermodsc | Aldo</i>
 </p>
 
 ---
