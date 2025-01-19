@@ -25,16 +25,15 @@ Here are some of my most exciting projects:
 - **Join my Telegram 2 : [CH CHERMODZS 2](https://t.me/ChenelChermodzs2)**
 - **Join my Whatsapp : [Chermodzs](https://whatsapp.com/channel/0029VaeRl4m1Xqucd9LGUT38)**
   
-
-
 ---
+
 
 ---
 
 ## 🌲 Socials:  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@YourChannelName)  
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@YourTikTokUsername)  
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ChermodzsModule)  
+
 ---
 
 ## 🛠️ Tools & Technologies  
