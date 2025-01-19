@@ -20,12 +20,24 @@ Here are some of my most exciting projects:
 
 ---
 
-## 📡 Stay Connected  
-- **Join my Telegram for updates: [ChermodzsModule](https://t.me/ChermodzsModule)**
-- **Join my Telegram 2: [CH CHERMODZS 2](https://t.me/ChenelChermodzs2)**
-- **Join my Whatsapp: [Chermodzs](https://whatsapp.com/channel/0029VaeRl4m1Xqucd9LGUT38)**
+## 🌐 Suport Me  
+- **Join my Telegram : [ChermodzsModule](https://t.me/ChermodzsModule)**
+- **Join my Telegram 2 : [CH CHERMODZS 2](https://t.me/ChenelChermodzs2)**
+- **Join my Whatsapp : [Chermodzs](https://whatsapp.com/channel/0029VaeRl4m1Xqucd9LGUT38)**
   
 
+
+---
+
+---
+
+## 🙌 Follow & Subscribe  
+
+📺 **YouTube**  
+[![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://www.youtube.com/@YourChannelName)  
+
+🎵 **TikTok**  
+[![TikTok](https://upload.wikimedia.org/wikipedia/commons/a/a9/TikTok_logo.svg)](https://www.tiktok.com/@YourTikTokUsername)  
 
 ---
 
