@@ -21,9 +21,9 @@ Here are some of my most exciting projects:
 ---
 
 ## 📡 Stay Connected  
-Join my Telegram for updates: [ChermodzsModule](https://t.me/ChermodzsModule)  
-Join my Telegram 2: [[ CH ] CHERMODZS 2](https://t.me/ChenelChermodzs2)
-Join my Whatsapp: [Chermodzs](https://whatsapp.com/channel/0029VaeRl4m1Xqucd9LGUT38)  
+- **Join my Telegram for updates: [ChermodzsModule](https://t.me/ChermodzsModule)**
+- **Join my Telegram 2: [CH CHERMODZS 2](https://t.me/ChenelChermodzs2)**
+- **Join my Whatsapp: [Chermodzs](https://whatsapp.com/channel/0029VaeRl4m1Xqucd9LGUT38)**
   
 
 
