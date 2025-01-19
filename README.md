@@ -1,5 +1,5 @@
 
-![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1E90FF&background=FFFFFF00&center=true&width=440&lines=Welcome+to+ChermodAld;Developer+%7C+Creator+%7C+Innovator;Crafting+non-root+modules+for+gamers!)
+![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1E90FF&background=FFFFFF00&center=true&width=440&lines=Welcome+to+ChermodAldo;Developer+%7C+Creator+%7C+Innovator;Crafting+non-root+modules+for+gamers!)
 
 ---
 
@@ -27,8 +27,8 @@ Here are some of my most exciting projects:
 ---
 
 ## 🌐 Socials:  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@chermodsc?si=RtHR73O2-uQlDjAj)  
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@chermodsc)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@chermodsc?si=RtHR73O2-uQlDjAj)  
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@chermodsc)  
 
 ---
 
