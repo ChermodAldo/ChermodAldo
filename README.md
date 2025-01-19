@@ -20,14 +20,14 @@ Here are some of my most exciting projects:
 
 ---
 
-## 🌐 Suport Me  
+## ✨️ Suport Me  
 - **Join my Telegram : [ChermodzsModule](https://t.me/ChermodzsModule)**
 - **Join my Telegram 2 : [CH CHERMODZS 2](https://t.me/ChenelChermodzs2)**
 - **Join my Whatsapp : [Chermodzs](https://whatsapp.com/channel/0029VaeRl4m1Xqucd9LGUT38)**
 
 ---
 
-## 🌲 Socials:  
+## 🌐 Socials:  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@YourChannelName)  
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@YourTikTokUsername)  
 
