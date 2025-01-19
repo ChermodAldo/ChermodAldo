@@ -1,46 +1,46 @@
-# 🎮 Welcome to Chermodsc's Universe! 🚀  
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=2000&color=F75C7E&width=435&lines=Welcome+to+Chermodsc's+GitHub!;Developing+Innovative+Modules+%26+Apps" alt="Typing Animation" />
+</h1>
 
-![Welcome Animation](https://media.giphy.com/media/l4FGGafcOHmrlQxGQ/giphy.gif)  
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://github.com/ChermodAldo/Vextrox/blob/main/assets/banner.gif" alt="Profile Banner" width="80%">
+</p>
 
-🌟 **Hello, World! I'm Aldo Rafael Rizki (Chermodsc)** 🌟  
-Pengembang muda berusia 13 tahun yang penuh semangat dalam menciptakan teknologi inovatif dan modul non-root untuk pengalaman gaming yang lebih baik!  
+---
 
-## 🛠️ My Projects:  
-Berikut adalah koleksi proyek keren yang mungkin akan membuat pengalaman Anda lebih menyenangkan:  
+## 👋 About Me
+Hi! I'm **Aldo Rafael Rizki**, also known as **Chermodsc**, a 13-year-old passionate developer. I love creating non-root modules and apps that enhance gaming experiences and improve system performance.
 
-### 🔹 [**Vextrox**](https://github.com/ChermodAldo/Vextrox)  
-> 🔧 **Fitur Utama:**  
-> - Optimisasi game tanpa root.  
-> - GUI ramah pengguna.  
-> - Update otomatis dari GitHub.  
+- 🚀 Developer of **Vextrox**, a performance booster for Android.  
+- 🌟 Passionate about coding and exploring new technologies.  
+- 📚 Constantly learning and improving to make my projects better.
 
-### 🔹 [**CMS Performance**](https://github.com/ChermodAldo/CMS-Performance)  
-> 🚀 **Fitur Utama:**  
-> - Mode Performance++ dan Performance-- untuk gaming.  
-> - UI interaktif dengan animasi mulus.  
-> - Real-time FPS dan ping monitoring.  
+---
 
-### 🔹 [**Stumble Guys Booster**](https://github.com/ChermodAldo/Stumble-Guys-Booster)  
-> 🎮 **Fitur Utama:**  
-> - Script optimasi khusus untuk Stumble Guys.  
-> - Tidak memerlukan akses root.  
+## 🔥 Projects
+Here are some of the exciting projects you can explore:
 
-### 🔹 [**Axeron Gaming Tweaks**](https://github.com/ChermodAldo/Axeron-Gaming-Tweaks)  
-> 🎯 **Fitur Utama:**  
-> - Script dan tweak untuk Free Fire dan Free Fire Max.  
-> - Optimisasi resolusi dan FPS game.  
+- 🎮 **[Vextrox](https://github.com/ChermodAldo/Vextrox)**: A non-root module for boosting gaming performance.  
+- 🌍 **[Waste Management Education](https://github.com/ChermodAldo/Waste-Management)**: A P5.js project promoting sustainability.  
+- ⚡ **[Gaming Tweaks](https://github.com/ChermodAldo/Gaming-Tweaks)**: Optimize your Android device for gaming.
 
-## 🌈 Welcome Animation!  
+---
+
+## 📫 Connect with Me
+Feel free to reach out or join my community for updates:  
+
+- Telegram Channel: [ChermodzsModule](https://t.me/ChermodzsModule)
+
+---
+
+## 💡 Featured Animation
 ```html
-<!-- Tambahkan animasi ke website Anda -->
-<div align="center">
-  <h2>Selamat Datang di Dunia Chermodsc!</h2>
-  <lottie-player 
-    src="https://assets10.lottiefiles.com/packages/lf20_x62chJ.json"  
-    background="transparent"  
-    speed="1"  
-    style="width: 300px; height: 300px;"  
-    loop autoplay>
-  </lottie-player>
-</div>
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChermodAldo&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ChermodAldo&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+</p>
