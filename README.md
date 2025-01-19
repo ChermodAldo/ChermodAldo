@@ -31,14 +31,10 @@ Here are some of my most exciting projects:
 
 ---
 
-## 🙌 Follow & Subscribe  
-
-📺 **YouTube**  
-[![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://www.youtube.com/@YourChannelName)  
-
-🎵 **TikTok**  
-[![TikTok](https://upload.wikimedia.org/wikipedia/commons/a/a9/TikTok_logo.svg)](https://www.tiktok.com/@YourTikTokUsername)  
-
+## 🌲 Socials:  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@YourChannelName)  
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@YourTikTokUsername)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ChermodzsModule)  
 ---
 
 ## 🛠️ Tools & Technologies  
