@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me  
-Hi, I'm **Aldo Rafael Rizki**, a 14-year-old developer passionate about **gaming optimization** and **non-root modules**. I love crafting tools and scripts that enhance user experience and bring out the best in Android gaming.
+Hi, I'm **Aldo Rafael Rizki**, a 15-year-old developer passionate about **gaming optimization** and **non-root modules**. I love crafting tools and scripts that enhance user experience and bring out the best in Android gaming.
 
 ---
 
@@ -33,7 +33,7 @@ Here are some of my most exciting projects:
 ---
 
 ## 🌐 Socials:  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chermodsc?igsh=dHYzMm9tamE0NzFh) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@chermods) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@chermodsc?si=RtHR73O2-uQlDjAj)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chermods?igsh=dHYzMm9tamE0NzFh) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@chermods) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@chermodsc?si=RtHR73O2-uQlDjAj)
 
 ---
 
