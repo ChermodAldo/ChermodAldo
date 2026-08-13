@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me  
-Hi, I'm **Aldo Rafael Rizki**, a 15-year-old developer passionate about **gaming optimization** and **non-root modules**. I love crafting tools and scripts that enhance user experience and bring out the best in Android gaming.
+Hi, I'm **Aldo Rafael Rizki**, a 16-year-old developer passionate about **gaming optimization** and **non-root modules**. I love crafting tools and scripts that enhance user experience and bring out the best in Android gaming.
 
 ---
 
