@@ -1,25 +1,15 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=1E90FF&height=100&section=header&text=✦%20Aldo%20Rafael%20Rizki%20✦&fontSize=45&fontAlignY=40" alt="Header Banner" />
-</p>
-
-<p align="center">
+<div align="center">
+  <br>
+  <h1>✦ Aldo Rafael Rizki ✦</h1>
+  
   <a href="https://chermodaldo.github.io/">
-    <img src="https://chermodaldo.github.io/Images/Chermodsc.jpg" width="140" style="border-radius: 25px; box-shadow: 0px 4px 15px rgba(30, 144, 255, 0.5);" alt="Chermodsc Profile">
+    <img src="https://chermodaldo.github.io/Images/Chermodsc.jpg" width="130" style="border-radius: 50%; box-shadow: 0px 4px 15px rgba(30, 144, 255, 0.5);" alt="Chermodsc Profile">
   </a>
-</p>
-
-<p align="center">
+  
+  <br><br>
+  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=1E90FF&center=true&vCenter=true&width=440&lines=16-yo+Android+Developer;Crafting+Non-Root+Modules;Gaming+Optimization+Expert" alt="Typing Animation" />
-</p>
-
----
-
-<h2 align="center">🏆 Achievements & Trophies</h2>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chermodaldo&theme=dracula&no-frame=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
-  </a>
-</p>
+</div>
 
 ---
 
@@ -30,21 +20,21 @@
     <td align="center" width="50%">
       <h3>⚡ Speed-X Game Booster</h3>
       <p>Advanced optimization module designed for smoother gameplay and peak performance.</p>
-      <br>
       <a href="#"><b>[ Download Here ]</b></a>
     </td>
     <td align="center" width="50%">
       <h3>🔥 Vextrox</h3>
       <p>Non-root modules engineered to supercharge your ultimate Android gaming experience.</p>
-      <br>
       <a href="https://safefileku.com/download/qSU2dRSYNxMoBl2D"><b>[ Download Here ]</b></a>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
+      <br>
       <h3>🌐 About-Chermodsc</h3>
       <p>My personal portfolio web—get to know the creator behind the projects.</p>
       <a href="https://chermodaldo.github.io/"><b>[ Visit Site ]</b></a>
+      <br><br>
     </td>
   </tr>
 </table>
@@ -52,22 +42,23 @@
 ---
 
 <h2 align="center">⚔️ Tech Arsenal</h2>
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=android,bash,github,html,css,js&perline=6" alt="Tech Stack" />
-</p>
+</div>
 
 ---
 
 <h2 align="center">📊 Analytics & Activity</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chermodaldo&show_icons=true&theme=dracula&hide_border=true&title_color=1E90FF" width="48%" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chermodaldo&layout=compact&theme=dracula&hide_border=true&title_color=1E90FF" width="48%" alt="Top Langs" />
-</p>
+<div align="center">
+  <!-- Menggunakan GitHub Streak yang sudah terbukti stabil di perangkat Anda -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChermodAldo&theme=dracula&hide_border=true&title_color=1E90FF" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChermodAldo&layout=compact&theme=dracula&hide_border=true&title_color=1E90FF" width="48%" alt="Top Langs" />
+</div>
 
 ---
 
 <h2 align="center">🔗 Connect With Me</h2>
-<p align="center">
+<div align="center">
   <a href="https://t.me/ChermodzsModule">
     <img src="https://img.shields.io/badge/Telegram_1-000000?style=for-the-badge&logo=telegram&logoColor=1E90FF" alt="Telegram 1" />
   </a>
@@ -87,10 +78,10 @@
   <a href="https://youtube.com/@chermodsc?si=RtHR73O2-uQlDjAj">
     <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" />
   </a>
-</p>
+</div>
 
 <br>
 
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=footer" alt="Footer Banner" />
-</p>
+</div>
