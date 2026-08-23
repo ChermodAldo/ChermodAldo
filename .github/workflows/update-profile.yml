@@ -9,23 +9,91 @@ permissions:
   contents: write
 
 jobs:
-  update-profile:
+  generate-stats:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update profile
-        run: |
-          echo "Profile statistics workflow is running."
-          mkdir -p profile
-          touch profile/.gitkeep
+      - name: Create profile directory
+        run: mkdir -p profile
 
-      - name: Commit changes
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          github_user_name: ChermodAldo
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Profile Stats SVG
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python - <<'PY'
+          import os
+          import urllib.request
+
+          username = "ChermodAldo"
+          token = os.environ["GH_TOKEN"]
+
+          headers = {
+              "Authorization": f"Bearer {token}",
+              "Accept": "application/vnd.github+json",
+              "User-Agent": "ChermodAldo-Profile"
+          }
+
+          def get(url):
+              request = urllib.request.Request(url, headers=headers)
+              with urllib.request.urlopen(request) as response:
+                  return response.read()
+
+          os.makedirs("profile", exist_ok=True)
+
+          stats_url = (
+              "https://github-readme-stats.vercel.app/api"
+              f"?username={username}"
+              "&show_icons=true"
+              "&theme=tokyonight"
+              "&hide_border=true"
+              "&border_radius=15"
+          )
+
+          langs_url = (
+              "https://github-readme-stats.vercel.app/api/top-langs/"
+              f"?username={username}"
+              "&layout=compact"
+              "&theme=tokyonight"
+              "&hide_border=true"
+              "&border_radius=15"
+              "&langs_count=8"
+          )
+
+          trophy_url = (
+              "https://github-profile-trophy.vercel.app/"
+              f"?username={username}"
+              "&theme=tokyonight"
+              "&no-frame=true"
+              "&no-bg=true"
+              "&margin-w=10"
+              "&row=2"
+              "&column=4"
+          )
+
+          urllib.request.urlretrieve(stats_url, "profile/stats.svg")
+          urllib.request.urlretrieve(langs_url, "profile/top-langs.svg")
+          urllib.request.urlretrieve(trophy_url, "profile/trophy.svg")
+          PY
+
+      - name: Commit generated statistics
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add profile/
-          git diff --cached --quiet || git commit -m "chore: update profile"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update GitHub profile statistics"
+            git push
+          fi
