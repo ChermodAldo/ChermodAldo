@@ -20,15 +20,15 @@ jobs:
 
       - name: Download GitHub Stats SVG
         run: |
-          curl -f -s -A "GitHubActions/1.0" -o profile/stats.svg "https://github-readme-stats.vercel.app/api?username=ChermodAldo&theme=dark&show_icons=true&hide_border=true&bg_color=0D1117"
+          curl -f -s -L --retry 3 -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" -o profile/stats.svg "https://github-readme-stats.vercel.app/api?username=ChermodAldo&theme=dark&show_icons=true&hide_border=true&bg_color=0D1117"
 
       - name: Download Top Languages SVG
         run: |
-          curl -f -s -A "GitHubActions/1.0" -o profile/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=ChermodAldo&layout=compact&theme=dark&hide_border=true&bg_color=0D1117"
+          curl -f -s -L --retry 3 -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" -o profile/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=ChermodAldo&layout=compact&theme=dark&hide_border=true&bg_color=0D1117"
 
       - name: Download GitHub Trophies SVG
         run: |
-          curl -f -s -A "GitHubActions/1.0" -o profile/trophy.svg "https://github-profile-trophy.vercel.app/?username=ChermodAldo&theme=dracula&no-bg=true&no-frame=true&margin-w=15"
+          curl -f -s -L --retry 3 -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" -o profile/trophy.svg "https://github-profile-trophy.vercel.app/?username=ChermodAldo&theme=dracula&no-bg=true&no-frame=true&margin-w=15"
 
       - name: Commit and Push SVGs
         uses: stefanzweifel/git-auto-commit-action@v5
