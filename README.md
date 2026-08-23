@@ -2,7 +2,7 @@
 
 ![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1E90FF&background=FFFFFF00&center=true&width=440&lines=Welcome+to+ChermodAldo;Developer+%7C+Creator+%7C+Innovator;Crafting+non-root+modules+for+gamers!)
 
-<!-- Foto Profil Diperkecil & Dibuat Bulat -->
+<!-- Resized & Rounded Profile Picture -->
 <img src="https://chermodaldo.github.io/Images/Chermodsc.jpg" alt="Chermodsc" width="150" height="150" style="border-radius: 50%; border: 3px solid #1E90FF;" />
 <br />
 <h2><i>Chermodsc | Aldo</i></h2>
@@ -20,23 +20,17 @@ Hi, I'm **Aldo Rafael Rizki**, a 16-year-old developer passionate about **gaming
 
 ---
 
-## 📊 GitHub Stats & Contributions
+## 📊 GitHub Contributions
 
 <!-- Contribution Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChermodAldo&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Contribution Graph" width="100%">
 </div>
 
-<!-- GitHub Stats & Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChermodAldo&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="ChermodAldo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChermodAldo&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
 ---
 
 ## 🔧 Featured Projects  
-- 📦 **[Vextrox](https://safefileku.com/download/qSU2dRSYNxMoBl2D)** — Non-root modules to supercharge your gaming experience.  
+- 📦 **Speed-X Game Booster** — Advanced game optimization utility for Android.  
 - 🧑‍💻 **[About-Chermodsc](https://chermodaldo.github.io/)** — Get to know the creator behind the projects.  
 
 ---
@@ -52,7 +46,7 @@ Hi, I'm **Aldo Rafael Rizki**, a 16-year-old developer passionate about **gaming
 
 ## ✨️ Support & Connect With Me  
 
-Jika kalian suka dengan karya saya, kalian bisa mendukung saya melalui link di bawah ini! ❤️
+If you like my work and want to support my projects, you can do so through the link below! ❤️
 
 <div align="center">
   <a href="https://donate-chi-three.vercel.app/" target="_blank">
