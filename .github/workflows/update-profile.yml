@@ -1,50 +1,37 @@
+name: Update Profile SVGs
 
-name: Update GitHub Profile
-
-"on":
-  workflow_dispatch:
+on:
   schedule:
     - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update:
+  update-svgs:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Create profile folder
+      - name: Create profile directory if not exists
         run: mkdir -p profile
 
-      - name: Generate GitHub Stats
+      - name: Download GitHub Stats SVG
         run: |
-          curl -fL "https://github-readme-stats.vercel.app/api?username=ChermodAldo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" \
-            -o profile/stats.svg
+          curl -s -A "GitHubActions/1.0" -o profile/stats.svg "https://github-readme-stats.vercel.app/api?username=ChermodAldo&theme=dark&show_icons=true&hide_border=true&bg_color=0D1117"
 
-      - name: Generate Top Languages
+      - name: Download Top Languages SVG
         run: |
-          curl -fL "https://github-readme-stats.vercel.app/api/top-langs/?username=ChermodAldo&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" \
-            -o profile/top-langs.svg
+          curl -s -A "GitHubActions/1.0" -o profile/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=ChermodAldo&layout=compact&theme=dark&hide_border=true&bg_color=0D1117"
 
-      - name: Generate GitHub Trophy
+      - name: Download GitHub Trophies SVG
         run: |
-          curl -fL "https://github-profile-trophy.vercel.app/?username=ChermodAldo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" \
-            -o profile/trophy.svg
+          curl -s -A "GitHubActions/1.0" -o profile/trophy.svg "https://github-profile-trophy.vercel.app/?username=ChermodAldo&theme=dracula&no-bg=true&no-frame=true&margin-w=15"
 
-      - name: Commit generated files
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add profile/
-
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "chore: update profile statistics"
-            git push
-          fi
+      - name: Commit and Push SVGs
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update profile SVGs [skip ci]"
+          file_pattern: profile/*.svg
