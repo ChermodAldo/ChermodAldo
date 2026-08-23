@@ -1,6 +1,6 @@
 name: Update GitHub Profile
 
-on:
+"on":
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Create profile folder
@@ -21,20 +21,20 @@ jobs:
 
       - name: Generate GitHub Stats
         run: |
-          curl -L "https://github-readme-stats.vercel.app/api?username=ChermodAldo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" \
+          curl -fL "https://github-readme-stats.vercel.app/api?username=ChermodAldo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" \
             -o profile/stats.svg
 
       - name: Generate Top Languages
         run: |
-          curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=ChermodAldo&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" \
+          curl -fL "https://github-readme-stats.vercel.app/api/top-langs/?username=ChermodAldo&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" \
             -o profile/top-langs.svg
 
       - name: Generate GitHub Trophy
         run: |
-          curl -L "https://github-profile-trophy.vercel.app/?username=ChermodAldo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" \
+          curl -fL "https://github-profile-trophy.vercel.app/?username=ChermodAldo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" \
             -o profile/trophy.svg
 
-      - name: Save generated files
+      - name: Commit generated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -42,8 +42,8 @@ jobs:
           git add profile/
 
           if git diff --cached --quiet; then
-            echo "No changes."
+            echo "No changes to commit."
           else
-            git commit -m "Update GitHub profile statistics"
+            git commit -m "chore: update profile statistics"
             git push
           fi
